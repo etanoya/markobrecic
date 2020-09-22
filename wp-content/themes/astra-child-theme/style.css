@@ -1,13 +1,30 @@
 /*
- Theme Name:   Astra Fifteen Child
+ Theme Name:   Astra Child
  Theme URI:    http://example.com/astra-child/
  Description:  Astra Child Theme
- Author:       John Doe
+ Author:       Marko Brecic
  Author URI:   http://markobrecic.com
- Template:     twentyfifteen
+ Template:     astra
  Version:      1.0.0
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  astrachildtheme
 */
+
+.main-header-bar {
+    padding: 3em 0 0 0;
+}
+
+.elementor-heading-title elementor-size-default {
+	color: black;
+	font-size: 63px;
+}
+
+a:hover {
+    color:black;
+}
+
+a:active {
+	color: black;
+}
